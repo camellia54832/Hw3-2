@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(7): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(7): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(7): note: 請考慮在格式字串中使用 '%I64d'
+c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(8): warning C4477: 'printf' : 格式字串 '%d' 需要 'int' 類型的引數，但 variadic 引數 1 的類型為 'unsigned __int64'
+  c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(8): note: 請考慮在格式字串中使用 '%lld'
+  c:\users\harry\desktop\hw3-2\5-35\5-35\main.c(8): note: 請考慮在格式字串中使用 '%I64d'
+  5-35.vcxproj -> C:\Users\harry\Desktop\Hw3-2\5-35\Debug\5-35.exe

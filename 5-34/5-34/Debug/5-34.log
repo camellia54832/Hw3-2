@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\harry\desktop\hw3-2\5-34\5-34\main.c(22): warning C4715: 'a': 不是所有控制路徑都傳回值
+  5-34.vcxproj -> C:\Users\harry\Desktop\Hw3-2\5-34\Debug\5-34.exe
